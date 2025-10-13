@@ -167,15 +167,15 @@ refactoring/
 ## ⚡ Pro Tips
 
 1. **Baseline First**: Run Technical Debt analysis to establish baseline metrics
-2. **Incremental Refactoring**: Apply one type of refactoring at a time
-3. **Test Coverage**: Ensure good test coverage before refactoring
-4. **Version Control**: Commit frequently during refactoring
-5. **Measure Impact**: Track metrics before and after refactoring
-6. **Team Review**: Discuss refactoring strategies with team
-7. **Automate**: Use refactoring tools and IDE support where available
-8. **Prioritize by ROI**: Focus on high-impact, low-effort refactorings first
-9. **Document Decisions**: Keep architectural decision records (ADRs)
-10. **Continuous Improvement**: Make refactoring part of regular workflow
+2. **Incremental Refactoring**: AI will apply one type of refactoring at a time
+3. **Test Coverage**: AI ensures test validation after each refactoring
+4. **Version Control**: AI creates granular commits during refactoring
+5. **Measure Impact**: AI tracks metrics before and after refactoring
+6. **Automate**: AI leverages automated refactoring tools and patterns
+7. **Prioritize by ROI**: AI focuses on high-impact, low-effort refactorings first
+8. **Document Decisions**: AI documents refactoring decisions and rationale
+9. **Continuous Improvement**: AI makes refactoring part of regular workflow
+10. **User Control**: AI always asks for user approval before implementing changes
 
 ## 🔧 Customization
 

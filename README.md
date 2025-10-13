@@ -640,46 +640,64 @@ We welcome contributions to expand and improve this prompt library!
 
 ## 📄 License
 
-This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)** for **personal and non-commercial use only**.
 
-### What This Means
+### Personal Use
+
+For personal, educational, and non-commercial purposes, this project is freely available under the GPL-3.0 license:
 
 ✅ **You Can**:
 
-- Use these prompts for commercial projects
-- Modify and adapt prompts to your needs
-- Distribute original or modified versions
+- Use these prompts for personal projects and learning
+- Modify and adapt the prompts for non-commercial purposes
+- Contribute improvements back to the project
 
 ⚠️ **You Must**:
 
-- Disclose source and include license
+- Disclose source and include license notices
 - Share modifications under the same GPL-3.0 license
-- State significant changes made to original prompts
+- Clearly state any significant changes made to original prompts
 
 ❌ **You Cannot**:
 
 - Sublicense under different terms
 - Hold authors liable for damages
 
+### Commercial Use
+
+**Commercial use of this software requires a separate commercial license.**
+
+Commercial use includes, but is not limited to:
+
+- Integration into commercial products or services
+- Use within organizations generating revenue
+- Deployment in enterprise or production environments for business purposes
+- Distribution as part of commercial offerings
+
+For commercial licensing inquiries, please contact inbox.
+
+We offer flexible commercial licensing options tailored to your organization's needs, including support and maintenance agreements.
+
 ### Full License Text
 
-See the [LICENSE](./LICENSE) file for complete terms and conditions.
+The GPL-3.0 license terms for non-commercial use can be found in the [LICENSE](./LICENSE) file.
 
 ```text
-Copyright (C) 2022-2025 flickleafy
+Copyright (C) 2022-2026 flickleafy
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+This program is free software for personal use: you can redistribute it 
+and/or modify it under the terms of the GNU General Public License as 
+published by the Free Software Foundation, either version 3 of the License, 
+or (at your option) any later version.
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
-```
 
-For more information: <https://www.gnu.org/licenses/gpl-3.0.html>
+Commercial use requires a separate commercial license. Please contact
+the copyright holder for commercial licensing terms.
+```
 
 ---
 
